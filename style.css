@@ -812,8 +812,21 @@ justify-content: space-between;
           cursor: pointer;
         }
 
-        
+        .nav-links ul{
+          display: flex;
+          flex-direction: column;
+          position: absolute;
+          
+        }
 
+        .nav-links ul li{
+          padding-left: 2rem;
+          color: hsl(0, 0%, 26%);
+        }
+
+        .click{
+          
+        }
       }
 
         
