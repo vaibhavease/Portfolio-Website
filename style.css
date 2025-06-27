@@ -561,6 +561,8 @@ justify-content: space-between;
           body{
             padding: 0px 20px;
           }
+           .nav-links ul li{
+            display: none;}
 
           
 
