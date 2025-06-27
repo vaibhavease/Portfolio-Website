@@ -799,34 +799,4 @@ justify-content: space-between;
        
       }
 
-      @media screen and (max-width: 650px){
-        .chat{
-          display: none;
-        }
-
-        .hamburger{
-          display:block;
-          position: absolute;
-          right: 20px;
-          z-index: 1000;
-          cursor: pointer;
-        }
-
-        .nav-links ul{
-          display: flex;
-          flex-direction: column;
-          position: absolute;
-          
-        }
-
-        .nav-links ul li{
-          padding-left: 2rem;
-          color: hsl(0, 0%, 26%);
-        }
-
-        .click{
-          
-        }
-      }
-
-        
+      
